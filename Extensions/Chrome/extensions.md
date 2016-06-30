@@ -1,0 +1,54 @@
+# Chrome Extensions #
+
+Found at [Google Play Store](https://play.google.com/store)
+
+- [Alchemize](https://chrome.google.com/webstore/detail/alchemize/ehjicobhjldomnjicohkkejcgljecncf)
+    - Awesome for minimizing / prettifying javascript/css
+- [Bootstrap offline guide](https://chrome.google.com/webstore/detail/bootstrap-335-offline-gui/gaojaekjdcfbdfiiggmklaocglaknnkd)
+    - Good for when you need some bootstrap knowledge and you're not able to get online
+- [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?utm_source=chrome-app-launcher-info-dialog)
+    - Crawls through web page and checks the validity of your links, and gives a read out of results
+- [Chroma](https://chrome.google.com/webstore/detail/chroma/gefgglgjdlddcpcapigheknbacbmmggp?utm_source=chrome-app-launcher-info-dialog)
+    - Great little color picker with a lot of different features
+- [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?utm_source=chrome-app-launcher-info-dialog)
+    - Tool to grab colors quickly from web page
+- [Font Playground](https://chrome.google.com/webstore/detail/font-playground/hdpmpnhaoddjelneingmbnhaibbmjgno?utm_source=chrome-app-launcher-info-dialog)
+    - Lets you sample tons of fonts on your website without having to fiddle with css
+- [Git cheat sheet](https://chrome.google.com/webstore/detail/git-cheat-sheet/mjdmgoiobnbkfcfjcceaodlcodhpokgn)
+    - A mini git cheat sheet
+- [Gliffy Diagrams](https://chrome.google.com/webstore/detail/gliffy-diagrams/bhmicilclplefnflapjmnngmkkkkpfad)
+    - A great lightweight tool for creating diagrams
+- [HTTP Headers](https://chrome.google.com/webstore/detail/http-headers/mhbpoeinkhpajikalhfpjjafpfgjnmgk)
+    - Tool for viewing the headers coming from a page request
+- [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
+    - Awesome little tool to view and collapse json responses
+- [Lorem Ipsum](https://chrome.google.com/webstore/detail/lorem-ipsum/kneacfckhnlodjbabmjfgicomghpflae)
+    - Best tool out there to create Lorem Ipsum of different sizes
+- [Markdown Preview Plus](https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckg)
+    - One of the best markdown tools in chrome. Automatically formats .md files to be viewed in markdown. Has adjustable options, but best for writing markdown for github.
+- [Nimbus Screenshot and Screencast](https://chrome.google.com/webstore/detail/nimbus-screenshot-and-scrbpconcjcammlapcogcnnelfmaeghhagj)
+    - Best free tool for capturing different types of screenshots and gives you the ability to edit them with a ton of options. 
+- [Page Colourizer](https://chrome.google.com/webstore/detail/page-colourizer/jgegaianabmabodmfpacefnieamfjene?utm_source=chrome-app-launcher-info-dialog)
+    - Grabs different color swatches and tries them out on your site without having to fiddle with css
+- [PerfectPixesl](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?utm_source=chrome-app-launcher-info-dialog)
+    - Allows you to put an overlay on your page so you can match your page to the image (think psd templates)
+- [RGB/Hex Color Generator](https://chrome.google.com/webstore/detail/rgbhex-color-generator/fpeieglghlffobhjbfadpnhakbdpheoa?utm_source=chrome-app-launcher-info-dialog)
+    - Lets you fiddle with different colors and grab the RGB or Hex values, also allows you to search hex or rgb values
+- [Tabsalad](https://chrome.google.com/webstore/detail/tabsalad/blmemdclhkbnggphhfcnbmifbhbapkop?utm_source=chrome-app-launcher-info-dialog)
+    - Allows you to turn data into tabular data and html tables with headers
+- [Tag Assistant](https://chrome.google.com/webstore/detail/tag-assistant-by-google/kejbdjndbnbjgmefkgdddjlbokphdefk?utm_source=chrome-app-launcher-info-dialog)
+    - Tool for validating google analytics codes
+- [Tape](https://chrome.google.com/webstore/detail/tape/jmfleijdbicilompnnombcbkcgidbefb)
+    - Great minimal tool for measuring out stuff on a site. 
+- [Task Timer](https://chrome.google.com/webstore/detail/task-timer/aomfjmibjhhfdenfkpaodhnlhkolngif)
+    - Tool for keeping track of time spent on different tasks
+- [Ugly-Yui Minifier](https://chrome.google.com/webstore/detail/ugly-yui-minifier/bddkeelchpglpilcaaonmfipmgbjapce?utm_source=chrome-app-launcher-info-dialog)
+    - Great css/js minifier extension used in browser. Quicker to use than Alchemize and about the same results. Only minifies.
+- [User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher/lkmofgnohbedopheiphabfhfjgkhfcgf?utm_source=chrome-app-launcher-info-dialog)
+    - Lets you spoof sites by switching user agents
+- [Visual Event](https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim)
+    - Looks at the javascript attached to a page and shows you what elements have js attached to them and shows you the code
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg)
+    - Analyzes a page/headers and tries to come up with the different technologies that created the page (servers, frameworks, languages
+- [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+    - ultimate web developer tool for chrome

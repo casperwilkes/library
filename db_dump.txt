@@ -1,0 +1,9 @@
+/**
+ * Create backup of database
+ *
+ * Open command line
+ * Navigate into directory where you want dump to be
+ * Run the following commands
+ **/
+>$ mysqldump -u [username] -p [database_name] > [file_name].sql
+>$ Enter password: [password]

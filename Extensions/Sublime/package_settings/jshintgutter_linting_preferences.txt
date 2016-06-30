@@ -1,0 +1,33 @@
+  // The plugin looks for a .jshintrc file in the same directory as the source
+  // file you're prettifying (or any directory above if it doesn't exist, or in
+  // your home folder if everything else fails) and uses those options along
+  // the default ones.
+
+  // Details: https://github.com/victorporof/Sublime-JSHint#using-your-own-jshintrc-options
+  // Example: https://github.com/jshint/jshint/blob/master/examples/.jshintrc
+  // Documentation: http://www.jshint.com/docs/options/
+{
+  "browser": true,
+  "rhino": true,
+  "esnext": true,
+  "globals": {
+      "node": false,
+      "step": false,
+      "thdproduct": false,
+      "log": false,
+      "debug": false,
+      "report": false,
+      "thdlookup": false,
+      "underscore": false,
+      "THD": false,
+      "AuxTable": false,
+      "ViewAPI": false,
+    },
+  "quotmark": false,
+  "undef": true,
+  "unused": true,
+  "curly": true,
+  "strict": false,
+  "globalstrict": false,
+  "funcscope":true
+}

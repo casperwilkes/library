@@ -1,0 +1,23 @@
+Works in linux command line, or in windows git bash
+
+Sizes:
+‘k’    for Kilobytes (units of 1024 bytes)
+‘M’    for Megabytes (units of 1048576 bytes)
+‘G’    for Gigabytes (units of 1073741824 bytes)
+
+Find by path:
+find {/path/to/directory/} -type f -size +{size-in-kb}k -exec ls -lh {} \; | awk '{ print $9 ": " $5 }'
+
+Search in current directory:
+find {.} -type f -size +{size-in-kb}k -exec ls -lh {} \; | awk '{ print $9 ": " $5 }'
+
+example
+Search or find big files Linux (50MB) in current directory, enter:
+$ find . -type f -size +50000k -exec ls -lh {} \; | awk '{ print $9 ": " $5 }'
+
+Outputs:
+./.kde/share/apps/akregator/Archive/http___blogs.msdn.com_MainFeed.aspx?Type=AllBlogs.mk4: 91M
+./out/out.tar.gz: 828M
+./.cache/tracker/file-meta.db: 101M
+./ubuntu-8.04-desktop-i386.iso: 700M
+./vivek/out/mp3/Eric: 230M
