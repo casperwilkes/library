@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Lets you inspect variables.
+ * Lets you inspect variables. If no $var is defined, it will get all defined variables. 
  * @param mixed $var The variable to inspect.
  * @param string $name An optional display name for variable.
  * @param string $force Force an inspection type on the variable
@@ -11,22 +11,29 @@
  *      - auto: let method decide
  * @return void
  */
-function see_var($var, $name = NULL, $force = 'auto') {
+function see_var($var = 'all', $name = NULL, $force = 'auto') {
     echo "<pre>";
+
     if (strlen($name)) {
         echo $name . ':<br />';
     }
-    if ($force == 'dump') {
-        var_dump($var);
-    } elseif ($force == 'print') {
-        print_r($var);
-    } else {
-        if (is_array($var)) {
+
+    if ($var !== 'all') {
+        if ($force == 'dump') {
+            var_dump($var);
+        } elseif ($force == 'print') {
             print_r($var);
         } else {
-            var_dump($var);
+            if (is_array($var)) {
+                print_r($var);
+            } else {
+                var_dump($var);
+            }
         }
+    } else {
+        print_r($GLOBALS);
     }
+
     echo "</pre>";
 }
 
